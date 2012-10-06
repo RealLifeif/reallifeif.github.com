@@ -4,7 +4,7 @@
   <title><![CDATA[Category: begin | My Octopress Blog]]></title>
   <link href="http://RealLifeif.github.com/blog/categories/begin/atom.xml" rel="self"/>
   <link href="http://RealLifeif.github.com/"/>
-  <updated>2012-10-06T19:12:32+03:00</updated>
+  <updated>2012-10-06T19:16:53+03:00</updated>
   <id>http://RealLifeif.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Me first post]]></title>
-    <link href="http://RealLifeif.github.com/blog/2012/10/06/new-post/"/>
-    <updated>2012-10-06T18:48:00+03:00</updated>
-    <id>http://RealLifeif.github.com/blog/2012/10/06/new-post</id>
-    <content type="html"><![CDATA[<h1>Lets Begin</h1>
-
-<h2>More letters</h2>
-]]></content>
-  </entry>
-  
+  Liquid error: incompatible character encodings: UTF-8 and IBM866
 </feed>
