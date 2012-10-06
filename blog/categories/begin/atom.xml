@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://RealLifeif.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: begin | My Octopress Blog]]></title>
+  <link href="http://RealLifeif.github.com/blog/categories/begin/atom.xml" rel="self"/>
   <link href="http://RealLifeif.github.com/"/>
   <updated>2012-10-06T18:56:10+03:00</updated>
   <id>http://RealLifeif.github.com/</id>
